@@ -28,19 +28,11 @@ const TreeMap = (
 			data: [
 				{
 					x: "commodity name",
-					y: 218,
+					y: 18,
 				},
 				{
 					x: "commodity name",
-					y: 149,
-				},
-				{
-					x: "commodity name",
-					y: 184,
-				},
-				{
-					x: "commodity name",
-					y: 55,
+					y: 9,
 				},
 				{
 					x: "commodity name",
@@ -48,11 +40,19 @@ const TreeMap = (
 				},
 				{
 					x: "commodity name",
+					y: 5,
+				},
+				{
+					x: "commodity name",
+					y: 24,
+				},
+				{
+					x: "commodity name",
 					y: 31,
 				},
 				{
 					x: "commodity name",
-					y: 70,
+					y: 10,
 				},
 				{
 					x: "commodity name",
@@ -60,7 +60,7 @@ const TreeMap = (
 				},
 				{
 					x: "commodity name",
-					y: 44,
+					y: 10,
 				},
 			],
 		},

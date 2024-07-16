@@ -180,8 +180,20 @@ export default function Createprojectform() {
 											</SelectTrigger>
 											<SelectContent>
 												<SelectGroup>
-													<SelectItem value="Every quater">
+												<SelectItem value="Initiation"> 
+														Initiation
+													</SelectItem>
+													<SelectItem value="Planning">
+														Planning
+													</SelectItem>
+													<SelectItem value="Execution">
 														Execution
+													</SelectItem>
+													<SelectItem value="Control">
+														Control
+													</SelectItem>
+													<SelectItem value="Closure">
+														Closure
 													</SelectItem>
 												</SelectGroup>
 											</SelectContent>

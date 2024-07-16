@@ -46,7 +46,7 @@ const page: FC<pageProps> = ({}) => {
 			<section className='flex flex-col justify-center md:p-3 p-2 container text-center  gap-5'>
 				<h3 className='text-lg'>Trusted by Procurement Managers Worldwide</h3>
 				<div className='flex justify-center items-center gap-3 flex-wrap'>
-					<Image
+					{/* <Image
 						src='/trust/zoom.svg'
 						alt='logo'
 						width={180}
@@ -80,7 +80,7 @@ const page: FC<pageProps> = ({}) => {
 						width={180}
 						height={80}
 						className='w-24 md:w-44'
-					/>
+					/> */}
 				</div>
 			</section>
 			{/* video section */}
@@ -208,7 +208,7 @@ const page: FC<pageProps> = ({}) => {
 						<p className='text-lg text-wrap font-normal text-muted-foreground'>
 							Sincerely,
 							<br />
-							{"[Founder's Name]"}
+							<span className="text-destructive/60">{"detmo"}</span>
 						</p>
 					</div>
 				</article>
